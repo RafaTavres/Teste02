@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "TesteSolution02.Domain/1.0.0": {
+        "runtime": {
+          "TesteSolution02.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TesteSolution02.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
